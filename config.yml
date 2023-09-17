@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://peppy-mousse-ca1a9c.netlify.app/"
 languageCode: 'en-us'
 title: "Vent & Write"
 theme: PaperMod
