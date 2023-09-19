@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: Hello there!
-    Content: "This will be a \"little corner\" of the web where I will archive some of my notes and thoughts. \n\n My name is Matteo, I'm a master student of **Computer Engeneering** at the University Of Salento (Italy, Apulia). \n\n I like the thought that I can write and keeping track all the things that I learn/do in computer science, society, interpersonal relationships, and more I guess. So: **NO topic, I just write my things**."
+    Content: "This will be a \"little corner\" of the web where I will archive some of my notes and thoughts. \n\n My name is Matteo, I'm a master student of **Computer Engineering** at the University Of Salento (Italy, Apulia). \n\n I like the thought that I can write and keeping track all the things that I learn/do in computer science, society, interpersonal relationships, and more I guess. So: **NO topic, I just write my things**."
 
   socialIcons:
     - name: GitHub
