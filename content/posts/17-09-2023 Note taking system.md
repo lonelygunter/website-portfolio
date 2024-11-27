@@ -1,6 +1,6 @@
 ---
 title: Note taking system
-date: 2023-09-17T15:16:31+02:00
+date: 17/09/23
 draft: true
 cover:
   image: 

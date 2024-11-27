@@ -1,6 +1,6 @@
 ---
 title: {{ replace .File.ContentBaseName "-" " " | title }}
-date: {{ .Date }}
+date: {{ .Date | time.Format ":date_short"}}
 draft: true
 cover:
   image: 
